@@ -9,3 +9,5 @@ Deploy buildings strategically and guide your team to victory.
 Find more about the gameplay in here: https://github.com/mjfabian/SquadSATCOM/wiki/Gameplay-Overview
 
 ### Jekyll Themes
+
+![Image](assets/squad_cover_pic.jpg)
