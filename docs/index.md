@@ -7,3 +7,5 @@ Be the leader of your army from a strategic perspective in the world of SQUAD as
 Deploy buildings strategically and guide your team to victory.
 
 Find more about the gameplay in here: https://github.com/mjfabian/SquadSATCOM/wiki/Gameplay-Overview
+
+### Jekyll Themes
