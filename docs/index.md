@@ -1,39 +1,9 @@
-## Welcome to GitHub Pages
+## What is S.A.T.C.O.M
 
-You can use the [editor on GitHub](https://github.com/johndoeopensource/SquadSATCOM/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+S.A.T.C.O.M is a conversion mod for the game SQUAD developed in Unreal Engine 4.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Be the leader of your army from a strategic perspective in the world of SQUAD as you issue orders and coordinate with all your squads.
 
-### Markdown
+Deploy buildings strategically and guide your team to victory.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:::
-hello
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johndoeopensource/SquadSATCOM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find more about the gameplay in here: https://github.com/mjfabian/SquadSATCOM/wiki/Gameplay-Overview
