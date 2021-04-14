@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body{
+    color: black !important;
+    font-family: monospace !important;
+}
+
 .page-header{
     color:white;
     background-color: unset;
